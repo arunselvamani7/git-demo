@@ -1,2 +1,3 @@
 name 
 contact
+city
